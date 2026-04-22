@@ -1,3 +1,6 @@
+# For Limbitless
+If you are making changes to this, its worth checking if the [upstream repo](https://github.com/adabru/BleWinrtDll) has new/useful commits.
+
 # UWP BLE packed as C++ winrt dll
 
 This VisualStudio-project compiles to a C++-dll that can be imported into Unity. It wraps a part of the [UWP BLE API](https://learn.microsoft.com/en-us/windows/uwp/devices-sensors/bluetooth-low-energy-overview) inside a dll. The dll can be simply dropped into your Unity project and be used in the Unity Editor and the Windows standalone version.
